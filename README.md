@@ -1,1 +1,1 @@
-# web-cliente-atv-01
+#Aplicação Web para um PetShop utilizando apenas HTML.
